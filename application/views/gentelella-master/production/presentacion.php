@@ -18,7 +18,7 @@
 
                   <div class="row x_title">
                     <div class="col-md-6">
-                      <h3>Presentación</h3>
+                      <h3>Presentación Prueba</h3>
                     </div>                  
                   </div>
 
